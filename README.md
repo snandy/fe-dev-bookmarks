@@ -113,8 +113,8 @@ A list of frontend development resources collected.
 	+ [iScroll 4](http://cubiq.org/iscroll-4)
 	+ [mobile frontend development debug](http://yujiangshui.com/multidevice-frontend-debug/) 移动端前端开发调试 | 于江水
 	+ [fir.im](http://fir.im/) iOS/Android免费应用内测托管平台
-	+ [移动设备适配库](http://detectmobilebrowsers.com/)
-	+ [HTML5 移动端兼容性速查](http://mobilehtml5.org/)
+	+ [detectmobile](http://detectmobilebrowsers.com/) 移动设备适配库
+	+ [mobilehtml5](http://mobilehtml5.org/) HTML5 移动端兼容性速查
 
 + database
 	+ [mongoDB](https://docs.mongodb.org/manual/)
@@ -125,10 +125,10 @@ A list of frontend development resources collected.
 	+ [Tencent AlloyTeam ](http://alloyteam.github.io/) Tencent AlloyTeam
 	+ [Tencent ISUX](http://isux.tencent.com/) 腾讯ISUX社交用户体验设计
 	+ [75team](http://www.75team.com/) 奇舞团-奇虎360前端团队
-	+ [携程设计委员会](http://ued.ctrip.com/blog/)
+	+ [ctrip UED](http://ued.ctrip.com/blog/) 携程设计委员会
 
 + document platform
-	+ [W3c](http://www.w3.org/)
+	+ [W3C](http://www.w3.org/)
 	+ [MSDN](http://msdn.microsoft.com/zh-cn/library/)
 	+ [Mozilla Developer](https://developer.mozilla.org/en-US/)
 	+ [W3Help](http://www.w3help.org/zh-cn/)

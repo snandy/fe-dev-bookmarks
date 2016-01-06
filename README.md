@@ -74,7 +74,7 @@ A list of frontend development resources collected.
 	+ [taobao npm](http://npm.taobao.org/)
 	+ [npm](https://www.npmjs.com/)
 	+ [cnodejs](https://cnodejs.org/) nodejs 社区
-	+ [koajs](http://koajs.in/) 
+	+ [koajs](http://koajs.in/)  下一代 nodejs web 框架
 	+ [koajs.cn](http://koa.rednode.cn/) koajs 中文社区
 
 + css

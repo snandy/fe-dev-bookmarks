@@ -142,9 +142,15 @@ A list of frontend development resources collected.
 	+ [V2EX](https://v2ex.com) 
 
 + web community
+	+ [div.io](http://div.io/)
+	+ [SegmentFault](http://www.segmentfault.com/)
 	+ [51cto](http://www.51cto.com/)
-	+ [JavaEye](http://www.javaeye.com/)
+	+ [iteye](http://www.iteye.com/)
+	+ [JS Weekly](http://javascriptweekly.com)
+	+ [CSS Weekly](http://css-weekly.com)
+	+ [H5 Weekly](http://html5weekly.com/)
 
+	
 + meeting
 	+ [D2](http://d2forum.alibaba-inc.com/) 前端技术论坛
 	+ [W3ctech](http://www.w3ctech.com/)

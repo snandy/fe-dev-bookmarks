@@ -143,6 +143,7 @@ A list of frontend development resources collected.
 
 + web community
 	+ [div.io](http://div.io/)
+	+ [feweekly](http://www.feweekly.com/)
 	+ [SegmentFault](http://www.segmentfault.com/)
 	+ [51cto](http://www.51cto.com/)
 	+ [iteye](http://www.iteye.com/)
